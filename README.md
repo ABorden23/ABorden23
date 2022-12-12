@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Borden!
--  💻 I completed the UCF Data Analytics and Visualization Certification Program in November, 2022 and am seeking data analyst roles upon graduation on November 23rd, 2022. 
+-  💻 I completed the UCF Data Analytics and Visualization Bootcamp in November, 2022 and am seeking data analyst roles upon graduation on November 23rd, 2022. 
 - 👀 I am interested in data analytics, visualization, and business intelligence using Python, SQL, R, Tableau, and Machine learning.
 - 🌱 I am currently learning Python, SQL, Javascript, R, Tableau and other software engineering concepts in the UCF Data Analytics and Visualization Certification Program.
 - 📫 I can be reached at Alexanderjborden@outlook.com
