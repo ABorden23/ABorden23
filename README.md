@@ -2,7 +2,6 @@
 - 🛠️ My skills in data analytics include Excel, Python, SQL, Tableau, and Machine learning.
 - 🌱 I am constantly growing and learning Python, SQL, Javascript, R, Tableau and other advanced software engineering concepts in my free time.
 - 📫 I can be reached at Alexanderjborden@outlook.com for new projects
-- 🏁 My interests include Swimming/Water Polo 🏊🏼‍♂️ 🤽🏻‍♂️, Golf 🏌️‍♂️, Football 🏈, and Music 🎶
 - 💼 Please consider me to work on your project.
 
 <!---
